@@ -1,0 +1,78 @@
+
+    <html>
+        <head>
+            <link rel="stylesheet" type="text/css" href="style.css" />
+    
+        </head>
+    <style>
+      .td
+      {
+            background-color: white;
+            border-radius : 5%;
+            border-bottom: 1px;
+            border-top: 1px;
+            background-repeat: repeat-x;
+      }
+      #ouro
+      {
+        background-color: rgb(255,255,255);
+      }
+      #prata
+      {
+        background-color: rgb(179,25, 66);
+      }
+      #bronze
+      {
+        background-color: rgb(10, 49,97);
+      }
+      #bandeirinha
+      {
+        background-image: url(Imagens/eua.png);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+      }
+      
+    </style>
+        <body >
+          
+          
+          <center>
+    
+    
+            <table >
+                <tr>
+     <td id="nome1">
+        EUA
+    </td>
+        
+     
+    
+          </tr>
+        
+     
+    
+     </table>
+     <td>
+        <img id = img src="imagens/eua.png">
+        <br><br><br><br><br><br><br>
+    
+    
+     </td>
+     <table>
+     <td id = "ouro">Ouro</td>
+     <td id = "prata">Prata</td>
+     <td id = "bronze">Bronze</td>
+     <td id = "bandeirinha">Total</td>
+     </table>
+     <table>
+     <tr>
+     <td class=ouro ><a href="eua/euaouro.html">8</a></td>
+     <td class=prata ><a href="eua/euaprata.html">10</a></td>
+     <td class=bronze ><a href="eua/euabronze.html">7</a</td>
+     <td class="td">25</td>
+     </tr>
+     </table>
+     <p><a href="Tabela.html">Homepage</a></p>
+     </center>
+     </body>
+     </html>

@@ -1,0 +1,82 @@
+
+    <html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="style.css" />
+
+    </head>
+<style>
+   .td
+      {
+        background-color: white;
+        border-radius : 5%;
+        border-bottom: 1px;
+        border-top: 1px;
+        background-repeat: repeat-x;
+      }
+      
+       #ouro
+      {
+        background-color: rgb(186 12 47	) ;
+        color: white;
+      }
+      #prata
+      {
+        background-color: rgb(255 255 255);
+        color: black;
+      }
+      #bronze
+      {
+        background-color: rgb(0 32 91);
+        color: white;
+      }
+      #bandeirinha
+      {
+        background-image: url(Imagens/noruega.png);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+      }
+  
+</style>
+    <body link="red" vlink="blue">
+      
+      
+      <center>
+
+
+        <table >
+            <tr>
+ <td id="nome1" class="noruega">
+    Noruega
+</td>
+    
+ 
+
+      </tr>
+    
+ 
+
+ </table>
+ <td>
+    <img id = img src="imagens/noruega.png">
+    <br><br><br><br><br><br><br>
+
+
+ </td>
+ <table id = "tablesemborda">
+ <td id = "ouro">Ouro</td>
+ <td id = "prata">Prata</td>
+ <td id = "bronze">Bronze</td>
+ <td id = "bandeirinha">Total</td>
+ </table>
+ <table>
+ <tr>
+ <td class=ouro ><a href="noruega/noruegaouro.html">15</a></td>
+ <td class=prata ><a href="noruega/noruegaprata.html">8</a></td>
+ <td class=bronze ><a href="noruega/noruegabronze.html">13</a</td>
+ <td class="td">37</td>
+ </tr>
+ </table>
+ <p><a href="Tabela.html">Homepage</a></p>
+ </center>
+ </body>
+ </html>

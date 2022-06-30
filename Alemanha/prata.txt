@@ -1,0 +1,129 @@
+<html>
+<head>
+
+</head>
+<body>
+<center>
+<style>
+body
+{
+    background-image: linear-gradient(black, red, yellow);
+}
+table
+{
+border: solid;
+color: white;
+
+}
+.p
+{
+align-self: center;
+font-size:23px;
+border-bottom:solid;
+}
+.td
+{
+font-family: sans-serif;
+font-size: 18px;
+text-align: center;
+}
+</style>
+<table>
+<tr>
+<td class = "p">Tabela de Medalhas de Prata da Alemanha nas olimpíadas em Beijing</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Esqui - Saltos - Feminino individual - Normal Hill  </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Luge - Feminino Single</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+    Luge - Open Double    </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Bobsleigh - Men's 2-Man  </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Bobsleigh - Open 4-Man  </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Bobsleigh - Women's 2-Man </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Cross-Country - Feminino 4 x 5km Revezamento</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+    <td class = "td">
+
+        Combinado Nórdico - Masculino por equipes Large Hill / 4 x 5km </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+    <td class = "td">
+
+        Esqui Alpino - Misto por equipes </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+    <td class = "td">Skeleton - Masculino individual</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+</table>    
+<p><a href = "../tabela.html">Homepage</a></p>
+<p><a href="../Alemanha.html">Alemanha</a></p> 
+</center>
+</body>
+</htmL>

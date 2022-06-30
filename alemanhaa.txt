@@ -1,0 +1,69 @@
+
+    <html>
+        <head>
+            <link rel="stylesheet" type="text/css" href="style.css" />
+    
+        </head>
+    <style>       
+      .td
+      {
+        background-color: yellow;
+        border-radius : 5%;
+        border-bottom: 1px;
+        border-top: 1px;
+        background-repeat: repeat-x;
+      }
+      #ouro
+      {
+        background-color: black;
+        color: white;
+      }
+      #prata
+      {
+        background-color: rgb(208, 0, 0) ;
+        color: white;
+      }
+      #bronze
+      {
+        background-color: rgb(255, 206, 0) ;
+        color: white;
+      }
+      #bandeirinha
+      {
+        background-image: url(Imagens/alemanha.png);
+        background-size: contain;
+      }
+    </style>
+        <body >
+          
+          
+          <center>
+    
+    
+            <table >
+                <tr><td id="nome1" class="alemanha">Alemanha</td></tr>
+     </table>
+     <td>
+        <img id = img class = "alemanhaimg" src="imagens/alemanha.png">
+        <br><br><br><br><br><br><br>
+    
+    
+     </td>
+     <table>
+     <td id = "ouro">Ouro</td>
+     <td id = "prata">Prata</td>
+     <td id = "bronze">Bronze</td>
+     <td id = "bandeirinha">Total</td>
+     </table>
+     <table>
+     <tr>
+     <td class=ouro><a href="Alemanha/alemanhaouro.html">12</a></td>
+     <td class=prata><a href="Alemanha/alemanhaprata.html">10</a></td>
+     <td class=bronze><a href="Alemanha/alemanhabronze.html">5</a></td>
+     <td class="td">27</td>
+     </tr>
+     </table>
+     <p><a href="Tabela.html">Homepage</a></p>
+     </center>
+     </body>
+     </html>

@@ -1,0 +1,134 @@
+<html>
+<head>
+
+</head>
+<body>
+<center>
+<style>
+       body
+{
+    background-image: linear-gradient(black, red, yellow);
+}
+table
+{
+border: solid;
+color : white;
+}
+.p
+{
+align-self: center;
+font-size:23px;
+border-bottom:solid;
+}
+.td
+{
+font-family: sans-serif;
+font-size: 18px;
+text-align: center;
+}
+</style>
+<table>
+<tr>
+<td class = "p">Tabela de Medalhas de ouro da Alemanha nas olimpíadas em Beijing</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+<td class = "td">Luge - Masculino Single</td>    
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+        Luge - Open Double    </td>
+    
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+        Skeleton - Masculino individual </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Skeleton - Feminino individual</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Bobsleigh - Women's 2-Man </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Cross-Country - Sprint por equipes (feminino) Classic Style</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Combinado Nórdico - Masculino Gundersen Normal Hill / 10km</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+    <td class = "td">
+
+        Luge - Misto por equipes - Revezamento   </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+    <td class = "td">
+
+        Biatlo - Feminino 15km Individual </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+    <td class = "td">Bobsleigh - Open 4-Man </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+    <td class = "td">
+        Bobsleigh - Men's 2-Man </td>
+</tr>
+<tr>
+<td class = "td">luge - Feminino Single </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+</table> 
+<p><a href = "../tabela.html">Homepage</a></p>
+<p><a href="../alemanha.html">Alemanha</a></p> 
+</center>
+</body>
+</htmL>

@@ -1,0 +1,59 @@
+
+    <html>
+        <head>
+            <link rel="stylesheet" type="text/css" href="style.css" />
+    
+        </head>
+    <style>     
+     .td
+      {
+        background-color: rgb(85, 85, 236);
+        border-radius : 5%;
+        border-bottom: 1px;
+        border-top: 1px;
+        background-repeat: repeat-x;
+      }
+      #ouro
+      {
+        background-color: rgb(174 28 40) ;
+      }
+      #prata
+      {
+        background-color: white;
+      }
+      #bronze
+      {
+        background-color: rgb(33 70 139);
+      }
+      #bandeirinha
+      {
+        background-image: url(Imagens/holanda.png);
+        background-size: contain;
+      }
+     </style>
+     <body>
+          
+          
+     <center>
+     <table >
+     <tr><td id="nome1" class="holanda">Países Baixos</td></tr>
+     </table>
+     <td><img id = img src="imagens/holanda.png"><br><br><br><br><br><br><br></td>
+     <table>
+     <td id = "ouro">Ouro</td>
+     <td id = "prata">Prata</td>
+     <td id = "bronze">Bronze</td>
+     <td id = "bandeirinha">Total</td>
+     </table>
+     <table>
+     <tr>
+     <td class=ouro><a href="holanda/holandaouro.html">8</a></td>
+     <td class=prata><a href="holanda/holandaprata.html">5</a></td>
+     <td class=bronze><a href="holanda/holandabronze.html">4</a></td>
+     <td class="td">17</td>
+     </tr>
+     </table>
+     <p><a href="Tabela.html">Homepage</a></p>
+     </center>
+     </body>
+     </html>

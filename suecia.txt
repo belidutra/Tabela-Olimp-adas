@@ -1,0 +1,57 @@
+
+    <html>
+        <head>
+            <link rel="stylesheet" type="text/css" href="style.css" />
+    
+        </head>
+    <style>       
+     .td
+      {
+        background-color: rgb(218, 221, 14);
+        border-radius : 5%;
+        border-bottom: 1px;
+        border-top: 1px;
+        background-repeat: repeat-x;
+      }
+      #ouro
+      {
+        background-color:rgb(0 106 167);
+      }
+      #prata
+      {
+        background-color:rgb(0 106 167) ;
+      }
+      #bronze
+      {
+        background-color:rgb(254 204 0) ;
+      }
+      #bandeirinha
+      {
+        background-image: url(Imagens/suecia.png);
+        background-size: contain;
+      }
+     </style>
+     <body link="yellow" vlink="blue">
+    <center>
+     <table >
+     <tr><td id="nome1" class="suecia">Suécia</td></tr>
+     </table>
+     <td><img id = img src="imagens/suecia.png"><br><br><br><br><br><br><br></td>
+     <table>
+     <td id = "ouro">Ouro</td>
+     <td id = "prata">Prata</td>
+     <td id = "bronze">Bronze</td>
+     <td id = "bandeirinha">Total</td>
+     </table>
+     <table>
+     <tr>
+     <td class=ouro><a href="suecia/sueciaouro.html">8</a></td>
+     <td class=prata><a href="suecia/sueciaprata.html">5</a></td>
+     <td class=bronze><a href="suecia/sueciabronze.html">5</a></td>
+     <td class="td">18</td>
+     </tr>
+     </table>
+     <p><a href="Tabela.html">Homepage</a></p>
+     </center>
+     </body>
+     </html>

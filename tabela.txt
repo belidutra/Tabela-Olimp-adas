@@ -1,0 +1,142 @@
+<html>
+<head ><link rel="stylesheet" type="text/css" href="style.css" /></head>
+<body><center><img id = "paises" src="imagens/jogos.jpg">
+<style>
+table
+{
+    background-color: rgb(207, 207, 207);
+}
+</style>
+<table>
+<tr>
+<td colspan = "2" >EQUIPE</td>
+<td class="ouro">OURO</td>
+<td class="prata">PRATA</td>
+<td class="bronze">BRONZE</td>
+<td>TOTAL</td>
+</tr>
+        <td>
+            <a href="Noruega.html"><img src="Imagens/noruega.png"></a> 
+
+        </td>
+        <td class="nome">
+            <a href="Noruega.html">Noruega</a>
+
+        </td>
+        <td class="ouro">
+            15
+
+        </td>
+        <td class="prata">
+            8
+
+        </td>
+        <td class="bronze">
+            13
+
+        </td>
+        <td>
+            37
+            
+        </td>
+        <tr>
+           
+            <td>
+                <a href = "Alemanha.html"><img src = "imagens/alemanha.png"></a>
+
+            </td>
+            <td class="nome">
+                <a href="Alemanha.html">Alemanha</a>
+
+            </td>
+            <td class="ouro">
+                12
+
+            </td>
+            <td class="prata">
+                10
+
+            </td>
+            <td class="bronze">
+                5
+
+            </td>
+            <td>
+                27
+                
+            </td>
+        </tr>
+        <tr>
+        <td>
+            <a href="China.html"><img src="imagens/china.png"</a>
+            
+
+        </td>
+        <td class="nome">
+            <a href="China.html">República Popular da China</a> 
+        </td>
+        <td class="ouro">
+            9
+
+        </td>
+        <td class="prata">
+            4
+
+        </td>
+        <td class="bronze">
+            2
+
+        </td>
+        <td>
+            15
+            
+        </td>
+           
+        </tr>
+        <tr>
+            <td>
+                <a href="eua.html"><img src="imagens/eua.png"</a>
+
+            </td>
+            <td class="nome">
+                <a href="eua.html">Estados Unidos da América</a>
+
+            </td>
+            <td class="ouro">
+                8
+
+            </td>
+            <td class="prata">
+                10
+
+            </td>
+            <td class="bronze">
+                7
+
+            </td>
+            <td>
+                25
+                
+            </td>
+
+        </tr>
+        <tr>
+            <td><a href="suecia.html"><img src="imagens/suecia.png"></a></td>
+            <td class="nome"><a href="suecia.html">Suécia</a></td>
+<td class="ouro">8</td>
+<td class="prata">5</td>
+<td class="bronze">5</td>
+<td>18</td>
+</tr>
+<tr>
+<td><a href="holanda.html"><img src="imagens/holanda.png"</a></td>
+<td class="nome"><a href="holanda.html">Países Baixos</a></td>
+<td class="ouro">8</td>
+<td class="prata">5</td>
+<td class="bronze">4</td>
+<td>17</td>
+</tr>
+</table>
+</center>
+</body>
+</html>

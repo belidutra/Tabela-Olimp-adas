@@ -1,0 +1,155 @@
+<html>
+<head>
+
+</head>
+<body>
+<center>
+<style>
+body
+{
+    background-image: linear-gradient(red,white, blue);
+}
+table
+{
+border: solid;
+}
+.p
+{
+align-self: center;
+font-size:23px;
+border-bottom:solid;
+}
+.td
+{
+font-family: sans-serif;
+font-size: 18px;
+text-align: center;
+}
+</style>
+<table>
+<tr>
+<td class = "p">Tabela das Medalhas de bronze da Noruega nas olimpíadas em Beijing</td>
+</tr>
+<tr>
+    <td class = "td">
+
+        Patinação de Velocidade - Masculino 5000m</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Patinação de Velocidade - Masculino 1000m </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Biatlo - 15km masculino</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Cross-Country - Masculino 15km Classic Style</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Cross-Country - Masculino 50km Livre </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Esqui Alpino - Masculino Super-G </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Esqui Alpino - Slalom masculino </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Esqui Alpino - Misto por equipes </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Biatlo - Feminino 15km Individual</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Biatlo - Masculino 20km Individual</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+
+
+<tr>
+    <td class = "td">
+
+        Biatlo - Masculino 10km Sprint </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Biatlo - Feminino 10km Pursuit</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+    <td class = "td">
+
+        Biatlo - 12,5km feminino </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+</table>
+<p><a href="../Tabela.html">Homepage</a></p>
+<p><a href="../noruega.html">Noruega</a></p>
+</center>
+</body>
+</htmL>

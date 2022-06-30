@@ -1,0 +1,125 @@
+<html>
+<head>
+
+</head>
+<body>
+<center>
+<style>
+body
+{
+    background-image: linear-gradient(white, blue, red);
+}
+table
+{
+border: solid;
+}
+.p
+{
+align-self: center;
+font-size:23px;
+border-bottom:solid;
+}
+.td
+{
+font-family: sans-serif;
+font-size: 18px;
+text-align: center;
+}
+</style>
+<table>
+<tr>
+<td class = "p">Tabela de Medalhas de prata dos Estados Unidos nas olimpíadas de Beijing</td>
+</tr>
+<tr>
+<td class = "td">
+    Snowboard - Feminino Slopestyle    </td>
+
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Esqui Livre - Moguls feminino  </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Patinação Artística - Misto por equipes </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Esqui Livre - Men's Big Air </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Bobsleigh - Women's Monobob  </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Esqui Livre - Masculino Slopestyle  </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Hóquei No Gelo - Women's Ice Hockey, Finals, Gold Medal Game, CAN v USA</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Esqui Livre - Halfpipe masculino  </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+    <td class = "td">
+
+    Cross-Country - Feminino 30km Livre </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+    <td class = "td">
+
+        Esqui Alpino - Masculino Super-G  </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+</table>
+<p><a href="../Tabela.html">Homepage</a></p>
+<p><a href="../eua.html">EUA</a></p>
+</center>
+</body>
+</htmL>

@@ -1,0 +1,84 @@
+<html>
+<head>
+
+</head>
+<body>
+<center>
+<style>
+    body
+{
+    background-image: linear-gradient(black, red, yellow);
+}
+table
+{
+border: solid;
+color : white;
+}
+.p
+{
+align-self: center;
+font-size:23px;
+border-bottom:solid;
+}
+.td
+{
+font-family: sans-serif;
+font-size: 18px;
+text-align: center;
+}
+</style>
+<table>
+<tr>
+<td class = "p">Tabela de Medalhas de Bronze da Alemanha nas olimpíadas em Beijing</td>
+</tr>
+
+<tr>
+    <td class = "td">
+
+        Esqui Alpino - Misto por equipes </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Bobsleigh - Men's 2-Man  </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Biatlo - Feminino 4 x 6km Revezamento  </td>
+  
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+    <td class = "td">
+
+        Esqui - Saltos - Masculino por equipes - Large Hill</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Esqui Livre - Ski Cross feminino  </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+</table>    
+<p><a href = "../tabela.html">Homepage</a></p>
+<p><a href="../alemanha.html">Alemanha</a></p> 
+</center>
+</body>
+</htmL>

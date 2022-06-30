@@ -1,0 +1,175 @@
+<html>
+    <head>
+        <body>
+            <center>
+            
+            <style>
+                body
+{
+    background-image: linear-gradient(red,white, blue);
+}
+                table
+                {
+                border: solid;
+               
+                
+                }
+                .p
+                {
+                  align-self: center;
+                  font-size:23px;
+                  border-bottom:solid;
+                }
+                .td
+                {
+                    font-family: sans-serif;
+                    font-size: 18px;
+                    text-align: center;
+                }
+            </style>
+          
+               
+            
+            <table >
+                
+                <td class = "p">Tabela de Medalhas de ouro da Noruega nas olimpíadas de Beijing</td>
+
+                    
+                <tr>
+                    <td class = "td">
+                        Biatlo - Mixed 4 x 6km Relay
+                    </td>
+                </tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr>
+                    <td class = "td">
+                        Esqui Livre - Men's Big Air   
+                    </td>
+                </tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                
+                <tr>
+                    <td class = "td">
+                        Esqui Livre - Men's Big Air
+                    </td>
+                </tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr>
+                    <td class = "td">
+                        Esqui - Saltos - Masculino individual - Large Hill
+                    </td>
+                </tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr>
+                    <td class = "td">
+                        Biatlo - Masculino 4 x 7.5km Revezamento
+                    </td>
+                </tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr>
+                    <td class = "td">
+                        Patinação de Velocidade - Perseguição por equipes (masculina)
+                    </td>
+                </tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr>
+                    <td class = "td">
+                        Biatlo - 15km masculino
+                    </td>
+                </tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr>
+                    <td class = "td">
+                        Cross-Country - Sprint masculino Livre
+                    </td>
+                </tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr>
+                    <td class = "td">
+                        Cross-Country - Feminino 2 x 7.5km Skiathlon
+                    </td>
+                </tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr>
+                    <td class = "td">
+                        Cross-Country - Sprint por equipes (masculino) Classic Style
+                    </td>
+                </tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr>
+                    <td class = "td">
+                        Cross-Country - Feminino 10km Classic Style
+                    </td>
+                </tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr>
+                    <td class = "td">
+                        Cross-Country - Feminino 30km Livre
+                    </td>
+                </tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr>
+                    <td class = "td">
+                        Combinado Nórdico - Masculino por equipes Large Hill / 4 x 5km  
+                    </td>
+                </tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr>
+                    <td class = "td">
+                        Combinado Nórdico - Masculino por equipes Large Hill / 4 x 5km
+                    </td>
+                    
+                </tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr>
+                    <td class = "td">
+                        Biatlo - Masculino 10km Sprint
+                    </td>
+                </tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr>
+                    <td class = "td">
+                        Biatlo - Masculino 4 x 7.5km Revezamento
+                    </td>
+                </tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                
+            </table>
+            <p><a href="../Tabela.html">Homepage</a></p>
+            <p><a href="../noruega.html">Noruega</a></p>
+        </center>
+        </body>
+    </head>
+</html>

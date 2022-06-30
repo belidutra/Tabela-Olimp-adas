@@ -1,0 +1,78 @@
+td
+{
+    border-top : solid;
+    border-bottom: solid;
+    border-width: 1px;
+    border-width : 1px;
+    font-family : Verdana, Geneva, Tahoma, sans-serif;
+    font-size : 20px;
+    width : 100px;
+    height: 50px;
+    text-align: center;
+    
+   
+}
+
+#medalhas
+{
+    width: 20px;
+    height: 30px;
+         
+}
+.nome
+{
+    width: 315px;
+}
+#nome1
+{
+    width: 800px;
+    font-size: 100px;
+    border-style : none;
+    
+}
+#img
+{
+    width: 500px;
+    height: 300px;
+    border-style : none;
+    image-orientation : center;
+    
+}
+
+
+.noruega
+{
+    border-color: red;
+}
+
+.prata
+{
+    background-color: rgba(197, 197, 197, 0.836);
+}
+
+.ouro
+{
+    background-color: rgba(212, 181, 78, 0.89);
+}
+
+.bronze
+{
+    background-color: rgba(211, 145, 80, 0.897);
+}
+
+img
+{
+    width: 65px;
+    height: 40px;
+}
+
+#paises
+{
+    width: 600px;
+    height: 400px;
+}
+
+table
+      {
+        border-collapse: collapse;
+      }

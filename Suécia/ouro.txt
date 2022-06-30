@@ -1,0 +1,110 @@
+<html>
+<head>
+
+</head>
+<body>
+<center>
+<style>
+body
+{
+    background-image: linear-gradient(blue, blue, yellow);
+}
+table
+{
+border: solid;
+}
+.p
+{
+align-self: center;
+font-size:23px;
+border-bottom:solid;
+}
+.td
+{
+font-family: sans-serif;
+font-size: 18px;
+text-align: center;
+}
+</style>
+<table>
+<tr>
+<td class = "p">Tabela de Medalhas de ouro da Suécia nas olimpíadas de Beijing</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+    <td class = "td">
+
+        Esqui Livre - Moguls masculino </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Patinação de Velocidade - Masculino 5000m    </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Patinação de Velocidade - Masculino 10000m   </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Biatlo - Feminino 4 x 6km Revezamento </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Esqui Livre - Ski Cross feminino   </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+<tr>
+    <td class = "td">
+
+        Curling - Men's Curling, Finals, Gold Medal Game, SWE v GBR  </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+    <td class = "td">
+
+        Cross-Country - Sprint feminino Livre </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+    <td class = "td">
+
+        Esqui Alpino - Feminino Giant Slalom </td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+</table>
+<p><a href="../Tabela.html">Homepage</a></p>
+<p><a href="../suecia.html">Suécia</a></p>   
+</center>
+</body>
+</htmL>
